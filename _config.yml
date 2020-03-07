@@ -1,8 +1,8 @@
 theme: jekyll-theme-slate
 
-title: Basic BIM tooling
-description: software for BIM tooling
+title: Basic BIM 
+description: Checking tools for Revit and IFC.
 
-logo: https://github.com/C-Claus/Basic-BIM-Checker-for-Autodesk-Revit/blob/master/basic_bim_icons_dpi90/filter_level.png
-show_downloads: "true"
+#logo: https://github.com/C-Claus/Basic-BIM-Checker-for-Autodesk-Revit/blob/master/basic_bim_icons_dpi90/filter_level.png
+#show_downloads: "true"
 
