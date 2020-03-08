@@ -1,6 +1,6 @@
 main:
   - title: "Posts"
-    url: /_posts/
+    url: /_posts/2020-03-08-post.md/
   - title: "Professional Projects"
     url: /_pages/professional_projects/
   - title: "Personal Projects"
