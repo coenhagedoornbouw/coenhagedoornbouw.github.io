@@ -1,10 +1,12 @@
-- title: About
-  url: /
+#- title: About
+#  url: /
 
 
-# Site navigation links
-#- title: Projects
-#  url: /c-claus.github.io/projects.md
+Site navigation links
+- title: Professional Projects
+  url: /projects.md/
+- title: Personal Projects
+  url: /projects.md/
 
 
 #- title: Blog
