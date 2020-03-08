@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 
 title: C. Claus #| Basic BIM 
 description: Portfolio of a Python & IFC enthusiast.
