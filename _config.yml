@@ -1,12 +1,3 @@
-#theme: jekyll-theme-minimal
-#theme: minimal-mistakes-jekyll
-
-#title: C. Claus #| Basic BIM 
-#description: Portfolio of a Python & IFC enthusiast.
-
-#logo: https://github.com/C-Claus/Basic-BIM-Checker-for-Autodesk-Revit/blob/master/basic_bim_icons_dpi90/filter_level.png
-#show_downloads: "true"
-
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -22,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: C. Claus | Portfolio | Blog
+title: MM
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -69,7 +60,7 @@ plugins:
 author:
   name   : "First Lastname"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Python & IFC enthusiast"
+  bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
