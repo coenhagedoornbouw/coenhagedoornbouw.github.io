@@ -6,14 +6,17 @@
 #- title: Blog
 #  url: /blog/
 
-docs:
-  - title: Menu
-    children:
-      - title: "Professional Projects"
-        url: /c-claus.github.io/projects.md/
-      - title: "Personal Projects"
-        url: /docs/structure/
-      - title: "Blog"
-        url: /docs/installation/
-      - title: "About"
-        url: /docs/upgrading/
+sidebar:
+  nav: "docs"
+  
+#docs:
+#  - title: Menu
+#    children:
+#      - title: "Professional Projects"
+#        url: /c-claus.github.io/projects.md/
+#      - title: "Personal Projects"
+#        url: /docs/structure/
+#      - title: "Blog"
+#        url: /docs/installation/
+#      - title: "About"
+#        url: /docs/upgrading/
