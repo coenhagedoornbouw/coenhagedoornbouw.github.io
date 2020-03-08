@@ -1,7 +1,7 @@
 Personal Projects
 
-*Streaming MP3 files from a NAS in Winamp
-*GUI automation with Python
+ *Streaming MP3 files from a NAS in Winamp<br>
+  *GUI automation with Python<br>
 *Organizing photo's with metadata
 *Creating QR codes from an IFC file
 *Using IFC as a Document Management System
