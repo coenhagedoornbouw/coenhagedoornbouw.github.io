@@ -1,4 +1,4 @@
-Personal Projects
+
 
 * Streaming MP3 files from a NAS in Winamp<br>
 * GUI automation with Python<br>
