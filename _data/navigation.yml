@@ -3,7 +3,7 @@ main:
     url: /posts/
   - title: "Professional Projects"
     url: /professional_projects/
-  - title: "Personal Projecs"
+  - title: "Personal Projects"
     url: /personal_projects/
   - title: "About"
     url: /about/
