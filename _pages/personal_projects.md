@@ -1,6 +1,6 @@
 
 
-* [Streaming MP3 files from a NAS in Winamp](streaming)<br>
+* [Streaming MP3 files from a NAS in Winamp](#streaming)<br>
 * GUI automation with Python<br>
 * Organizing photos with metadata<br>
 * Creating QR codes from an IFC file<br>
