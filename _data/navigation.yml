@@ -1,9 +1,24 @@
 main:
-  - title: "Posts"
-    url: /_posts/
+  #- title: "Posts"
+  #  url: /_posts/
+  
   - title: "Professional Projects"
     url: /_pages/professional_projects/
+    subfolderitems:
+    - page: Streaming MP3 Files
+      url: _pages/streaming.md
   - title: "Personal Projects"
     url: /_pages/personal_projects/
-  - title: "About"
+  - title: "Person"
     url: /_pages/about/
+
+
+#toc:
+#  - title: Group 1
+#    subfolderitems:
+#      - page: Thing 1
+#        url: /thing1.html
+#      - page: Thing 2
+#        url: /thing2.html
+#      - page: Thing 3
+#        url: /thing3.html
