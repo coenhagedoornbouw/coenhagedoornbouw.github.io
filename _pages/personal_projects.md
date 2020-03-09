@@ -1,6 +1,6 @@
 
 
-* [Streaming MP3 files from a NAS in Winamp](/_pages/personal_projects#Streaming)<br>
+* [Streaming MP3 files from a NAS in Winamp](/_pages/personal_projects#streaming)<br>
 * GUI automation with Python<br>
 * Organizing photos with metadata<br>
 * Creating QR codes from an IFC file<br>
@@ -9,7 +9,7 @@
 * Getting and validing Quantities from an IFC file<br>
 
 
-# Streaming
+# streaming
 
 Back in 2016 I bought a Western Digital NAS with 4TB of storage space. <br>
 I have uploaded about 25GB of mp3 files on my NAS since then. <br?
