@@ -1,6 +1,6 @@
 
 
-* Streaming MP3 files from a NAS in Winamp<br>
+* [Streaming MP3 files from a NAS in Winamp](/_pages/streaming.md)<br>
 * GUI automation with Python<br>
 * Organizing photos with metadata<br>
 * Creating QR codes from an IFC file<br>
