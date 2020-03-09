@@ -4,11 +4,11 @@ main:
   
   - title: "Professional Projects"
     url: /_pages/professional_projects/
+  - title: "Personal Projects"
+    url: /_pages/personal_projects/
     subfolderitems:
     - page: Streaming MP3 Files
       url: _pages/streaming.md
-  - title: "Personal Projects"
-    url: /_pages/personal_projects/
   - title: "Person"
     url: /_pages/about/
 
