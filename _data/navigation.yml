@@ -1,15 +1,11 @@
 main:
   #- title: "Posts"
   #  url: /_posts/
-  
   - title: "Professional Projects"
     url: /_pages/professional_projects/
   - title: "Personal Projects"
     url: /_pages/personal_projects/
-    subfolderitems:
-    - page: Streaming MP3 Files
-      url: _pages/streaming.md
-  - title: "Person"
+  - title: "Personolia"
     url: /_pages/about/
 
 
