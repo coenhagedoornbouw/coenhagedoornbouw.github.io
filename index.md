@@ -11,7 +11,8 @@ Please check out my [Projects page](https://c-claus.github.io/_pages/professiona
 
 ## Basic BIM Checker for Navisworks Manage (specifically IFC files)
 [Basic BIM Checker for Navisworks](https://github.com/C-Claus/Basic-BIM-Checker-for-Autodesk-Navisworks-Manage/blob/master/README.md)
-![Revit Add-In Navis](c-claus.github.io/images/basic_bim_checker_for_navisworks.png)
+![Revit Add-In Navis](/images/nav_app.png)
+<!---![Revit Add-In Navis](c-claus.github.io/images/basic_bim_checker_for_navisworks.png)--->
 
 
 
