@@ -7,6 +7,8 @@ main:
     url: /_pages/personal_projects/
   - title: "Personalia"
     url: /_pages/about/
+  - title: "Meterkastlijsten"
+    url: /_pages/bouwnummer_25
 
 
 #toc:
