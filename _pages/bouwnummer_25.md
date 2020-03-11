@@ -1,12 +1,13 @@
 # Bouwnummer:  25
+
 1 | Meterkast | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 1.1 | Bewoner inlichten leegmaken meterkast | Yes | 
 1.2 | Sleutel meterkast beschikbaar, en afgegeven | Niet beschikbaar | 
 1.3 | Ruimte voor meterkast opruimen | Yes | 
 1.4 | opmerking? |  | 
 2 | Keuken | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 2.1 | 00 schimmelvorming zichtbaar op wanden/plafonds | No | 
 2.2 | 00 Indien bestaande keuekn open is naar woonkamer, hoe? | No | 
 2.3 | 00 geiser aanwezig? | No | 
@@ -20,7 +21,7 @@
 2.11 | 50 cv-installatie aanwezig (hele woning) | Yes | 
 2.12 | Opmerking? |  | 
 3 | Halletje (bkt) | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 3.1 | 00 schimmelvorming zichtbaar op wanden/plafonds | No | 
 3.2 | 10 verlaagd plafond aanwezig? | Yes | 
 3.3 | 10 asbest zeil of restanten aanwezig onder vloerafwerking | Tapijt | 
@@ -39,7 +40,7 @@
 3.16 | 70 vervangen wandcontactdoos | nee | 
 3.17 | Opmerking? |  | 
 4 | Toilet | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 4.1 | 10 miva beugels de- en hermonteren | Yes | 
 4.2 | 10 miva beugels demonteren en afvoeren |  | 
 4.3 | 10 verlaagd plafond aanwezig? | Yes | 
@@ -53,7 +54,7 @@
 4.11 | 70 vervangen wandcontactdoos | nee | 
 4.12 | Opmerking? |  | 
 5 | Badkamer | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 5.1 | 10 miva stoel en/of beugels de- en hermonteren | Yes | 
 5.2 | 10 miva stoel en/of beugels demonteren en afvoeren | No | 
 5.3 | 10 verlaagd plafond aanwezig? | No | 
@@ -66,7 +67,7 @@
 5.10 | 70 vervangen wandcontactdoos | nee | 
 5.11 | Opmerking? |  | 
 6 | Slaapkamer 3 (Nabij badkamer) | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 6.1 | 00 schimmelvorming zichtbaar op wanden | No | 
 6.2 | 00 vaste kast aanwezig bij voorgevel | No | 
 6.3 | 00 zelf aangebrachte voorzieningen bij gevel weghalen | Yes | gordijnen en troep
@@ -79,7 +80,7 @@
 6.10 | 70 vervangen wandcontactdoos | nee | 
 6.11 | Opmerking? |  | 
 7 | Entree (hal) | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 7.1 | 00 schimmelvorming zichtbaar op wanden/plafonds | No | 
 7.2 | 00 hal nog aanwezig | Yes | een halve
 7.3 | 00 Deur Hal -> keuken aanwezig (indien ja, deze wordt dichtgezet) | Yes | 
@@ -98,7 +99,7 @@
 7.16 | 70 vervangen wandcontactdoos | nee | 
 7.17 | Opmerking? |  | 
 8 | Woonkamer | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 8.1 | 00 schimmel zichtbaar op wanden | No | 
 8.2 | 00 moederhaard aanwezig | No | 
 8.3 | 00 Moederhaard eigendom bewoner? | nee | 
@@ -120,7 +121,7 @@
 8.19 | 70 CAI kabelgoot vervangen mits wanden gestuct worden (zie 40) | N/A | 
 8.20 | Opmerking? |  | 
 9 | Halletje (wss) | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 9.1 | 00 schimmelvorming zichtbaar op wanden/plafonds | No | 
 9.2 | 10 verlaagd plafond aanwezig? | No | 
 9.4 | 30 vervangen binnendeur halletje /woonkamer | nee | 
@@ -145,7 +146,7 @@
 9.23 | 70 vervangen wandcontactdoos | nee | 
 9.24 | Opmerking? |  | 
 10 | Slaapkamer 1 (voorzijde) | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 10.1 | 00 schimmelvorming zichtbaar op wanden | No | 
 10.2 | 00 vaste kast aanwezig bij voorgevel | Yes | 
 10.3 | 00 zelf aangebrachte voorzieningen bij gevel weghalen | No | gordijnen en spullen
@@ -158,7 +159,7 @@
 10.10 | 70 vervangen wandcontactdoos | nee | 
 10.11 | Opmerking? |  | 
 11 | Slaapkamer 2 (gallerijzijde) | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 11.1 | 00 schimmelvorming zichtbaar op wanden | No | 
 11.2 | 00 vaste kast aanwezig bij gallerij | No | 
 11.3 | 00 zelf aangebrachte voorzieningen bij gevel weghalen | Yes | gordijnen en spullen
@@ -171,7 +172,7 @@
 11.10 | 70 vervangen wandcontactdoos | nee | 
 11.11 | Opmerking? |  | 
 12 | Wasmachine kast | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 12.1 | 00 bewoner dient kast leeg te halen | 0-10m3 | 
 12.2 | 00 schimmelvorming zichtbaar op wanden | No | 
 12.3 | 40 herstel stucwerk wanden (alleen bouwkundige scheuren) | No | 
@@ -179,12 +180,12 @@
 12.5 | 70 Verlichting aanwezig | No | 
 12.6 | Opmerking? |  | 
 13 | Balkon | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 13.1 | Balkon dient geheel leeg te zijn | Yes | een paar losse spullen
 13.2 | 00 zonwering / rolluik aanwezig (ZAV) | No | 
 13.3 | Opmerking? |  | 
 14 | Buitenzijde | Reactie | Opmerking | OA
------- | --------------- | ----------------- | -------
+------ | --------------- | ----------------- | ------- | ----------
 14.1 | 00 zonwering / rolluik aanwezig (ZAV) | No | 
 14.2 | 00 (schotel)antenne aanwezig (ZAV) | No | 
 14.3 | 00 zonwering / rolluik voorgevel aanwezig (ZAV) | No | 
