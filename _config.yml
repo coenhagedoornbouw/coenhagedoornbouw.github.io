@@ -58,13 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "C. Claus"
-  avatar : "/assets/images/14906760.png"
-  bio    : "Python & IFC enthusiast"
+  name   : "Coen Hagedoorn Bouw"
+  avatar : "/assets/images/logo.png"
+  bio    : "-"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://c-claus.github.io/"
+      url: "https://coenhagedoorn.nl/"
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
