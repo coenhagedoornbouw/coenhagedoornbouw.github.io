@@ -1,14 +1,14 @@
 main:
   #- title: "Posts"
   #  url: /_posts/
-  - title: "Professional Projects"
-    url: /_pages/professional_projects/
-  - title: "Personal Projects"
-    url: /_pages/personal_projects/
-  - title: "Personalia"
-    url: /_pages/about/
-  #- title: "Meterkastlijsten"
-  #  url: /_pages/bouwnummer_25
+  #- title: "Professional Projects"
+  #  url: /_pages/professional_projects/
+  #- title: "Personal Projects"
+  #  url: /_pages/personal_projects/
+  #- title: "Personalia"
+  #  url: /_pages/about/
+  - title: "Overzicht Meterkastlijsten"
+    url: /_pages/overzicht_meterkastlijsten
 
 
 #toc:
