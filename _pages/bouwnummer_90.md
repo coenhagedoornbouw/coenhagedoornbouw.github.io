@@ -4,7 +4,7 @@
 1 | Meterkast | Reactie | Opmerking | OA
 ------ | --------------- | ----------------- | ------- | ----------
 1.1 | Bewoner inlichten leegmaken meterkast | Yes | 
-1.2 | Sleutel meterkast beschikbaar, en afgegeven | Afgegeven | 10 - 02 - 20
+1.2 | Sleutel meterkast beschikbaar, en afgegeven | Afgegeven | 10 02 20
 1.3 | Ruimte voor meterkast opruimen | Yes | 
 1.4 | opmerking? |  | 
 
